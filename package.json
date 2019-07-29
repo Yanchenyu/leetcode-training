@@ -1,0 +1,22 @@
+{
+  "name": "leetcode-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yanchenyu/leetcode-training.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "yanchenyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yanchenyu/leetcode-training/issues"
+  },
+  "homepage": "https://github.com/Yanchenyu/leetcode-training#readme"
+}
